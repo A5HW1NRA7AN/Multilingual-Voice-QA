@@ -1,0 +1,12 @@
+streamlit
+torch
+transformers
+pypdf
+SpeechRecognition
+openai-whisper
+gTTS
+pydub
+rouge-score
+pdfplumber
+gtts
+googletrans==4.0.0-rc1
